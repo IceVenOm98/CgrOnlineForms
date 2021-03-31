@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3bd32336-ba0e-487f-851d-ccbe6c3bb701",
+    "Name": "CgrQuestionnaires05bf5340Section",
+    "ModifiedOnUtc": "\/Date(1617104027000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Опросы\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,6 @@
+C:\Sertification\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CgrOnlineForms\Files\Bin\CgrOnlineForms.dll
+C:\Sertification\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CgrOnlineForms\Files\Bin\CgrOnlineForms.pdb
+C:\Sertification\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CgrOnlineForms\obj\Debug\CgrOnlineForms.csproj.CoreCompileInputs.cache
+C:\Sertification\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CgrOnlineForms\obj\Debug\CgrOnlineForms.dll
+C:\Sertification\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CgrOnlineForms\obj\Debug\CgrOnlineForms.pdb
+C:\Sertification\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CgrOnlineForms\obj\Debug\CgrOnlineForms.csprojAssemblyReference.cache

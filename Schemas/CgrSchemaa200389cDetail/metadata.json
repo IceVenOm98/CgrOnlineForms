@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "760d2731-5534-402e-9059-d5e83b37ea31"
+= MetaData.Schema.A2 "CgrSchemaa200389cDetail"
+= MetaData.Schema.A5 "ac4f7f0f-d5d5-4e8b-997a-a2f7c46f033e"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "760d2731-5534-402e-9059-d5e83b37ea31"
+= MetaData.Schema.B6 "4b78d4ef-5254-02e8-3fac-31b8a7fbfea6"
+= MetaData.Schema.B8 "7.17.2.1728"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

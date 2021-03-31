@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Опросы в группе" />
+			<Item Name="Columns.CgrQuestionnaires.Caption" Value="Опросы" />
+			<Item Name="Columns.Folder.Caption" Value="Группа Опросы" />
+		</Items>
+	</Group>
+</Resources>

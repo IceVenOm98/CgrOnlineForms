@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "24a78355-d54f-4895-9f54-d2ab5cee0a5d",
+    "Name": "CgrQuestionnairesFolder",
+    "ModifiedOnUtc": "\/Date(1617104042000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Опросы",
+    "DependsOn": []
+  }
+}

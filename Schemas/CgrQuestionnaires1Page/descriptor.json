@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d564af2e-66e6-4808-b8cc-67e825eddb45",
+    "Name": "CgrQuestionnaires1Page",
+    "ModifiedOnUtc": "\/Date(1617176564000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Опросы\""
+  }
+}

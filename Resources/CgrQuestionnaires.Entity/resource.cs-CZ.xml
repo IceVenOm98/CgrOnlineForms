@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.CgrName.Caption" Value="Název" />
+			<Item Name="Columns.CgrNotes.Caption" Value="Poznámky" />
+		</Items>
+	</Group>
+</Resources>

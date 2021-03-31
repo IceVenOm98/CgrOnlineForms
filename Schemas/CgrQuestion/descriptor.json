@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0f0926a0-7dfd-3502-bffd-39e81dcb0291",
+    "Name": "CgrQuestion",
+    "ModifiedOnUtc": "\/Date(1617106562000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Вопрос в форме",
+    "DependsOn": []
+  }
+}

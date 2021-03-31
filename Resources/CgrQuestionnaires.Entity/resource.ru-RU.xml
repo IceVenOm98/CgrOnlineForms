@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Опросы" />
+			<Item Name="Columns.CgrFormLink.Caption" Value="Google-форма" />
+			<Item Name="Columns.CgrName.Caption" Value="Название" />
+			<Item Name="Columns.CgrNotes.Caption" Value="Заметки" />
+		</Items>
+	</Group>
+</Resources>

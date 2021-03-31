@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "760d2731-5534-402e-9059-d5e83b37ea31",
+    "Name": "CgrSchemaa200389cDetail",
+    "ModifiedOnUtc": "\/Date(1617106051000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Вопросы\"",
+    "DependsOn": []
+  }
+}

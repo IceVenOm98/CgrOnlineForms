@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "19c5d826-0639-4492-ac6c-9d9e9726773b",
+    "Name": "CgrQuestionnaires",
+    "ModifiedOnUtc": "\/Date(1617104372000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Опросы",
+    "DependsOn": []
+  }
+}

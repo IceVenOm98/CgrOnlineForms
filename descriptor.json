@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "8ed90473-569e-4d33-921a-1da996bf644c",
+    "PackageVersion": "7.8.0",
+    "Name": "CgrOnlineForms",
+    "ModifiedOnUtc": "\/Date(1530548445000)\/",
+    "Maintainer": "CRMGuru",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

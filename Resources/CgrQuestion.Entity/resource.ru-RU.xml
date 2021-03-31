@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Вопрос в форме" />
+			<Item Name="Columns.CgrQuestionnairy.Caption" Value="Опрос" />
+			<Item Name="Columns.CgrTitle.Caption" Value="Заголовок" />
+			<Item Name="Columns.CgrType.Caption" Value="Тип" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

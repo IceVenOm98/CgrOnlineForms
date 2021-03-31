@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d366c591-d497-47a9-9065-154d0e90b772",
+    "Name": "CgrQuestionnairesInTag",
+    "ModifiedOnUtc": "\/Date(1617104050000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Опросы",
+    "DependsOn": []
+  }
+}

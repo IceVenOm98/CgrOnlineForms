@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Опросы&quot;" />
+			<Item Name="LocalizableStrings.CgrAnswersDetailCaptionOnPage.Value" Value="Ответы" />
+			<Item Name="LocalizableStrings.CgrQuestionsDetailCaptionOnPage.Value" Value="Вопросы" />
+			<Item Name="LocalizableStrings.CreateGoogleForm.Value" Value="Создать Google-форму" />
+			<Item Name="LocalizableStrings.TabAnswersTabCaption.Value" Value="Ответы" />
+			<Item Name="LocalizableStrings.TabQuestionsTabCaption.Value" Value="Вопросы" />
+		</Items>
+	</Group>
+</Resources>
